@@ -316,7 +316,6 @@ int main(int argc, const char * argv[]) {
 
     read_img -> copyAry(read_img -> aryTwo, read_img -> aryOne);
     read_img -> changeflag = 0;
-    read_img -> copyAry(read_img -> aryTwo, read_img -> aryOne);
     
     read_img -> NorthThinning();
     read_img -> copyAry(read_img -> aryOne, read_img -> aryTwo);
