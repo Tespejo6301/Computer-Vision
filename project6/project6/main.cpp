@@ -183,9 +183,9 @@ class Thinning {
             }
         
         
-        if (count > objNeighbor)
+        if (count >= objNeighbor)
             result = true;
-        //cout << result;
+        
         return result;
     }
     
