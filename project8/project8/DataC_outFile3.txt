@@ -1,0 +1,1635 @@
+K value: 4PtAry after initialization 
+40 40 0 1
+1
+x: 5 y: 5 curvature: 0 
+x: 6 y: 5 curvature: 0 
+x: 7 y: 5 curvature: 0 
+x: 8 y: 5 curvature: 0 
+x: 9 y: 5 curvature: 0 
+x: 10 y: 5 curvature: 0 
+x: 11 y: 5 curvature: 0 
+x: 12 y: 5 curvature: 0 
+x: 13 y: 5 curvature: 0 
+x: 14 y: 5 curvature: 0 
+x: 15 y: 5 curvature: 0 
+x: 16 y: 6 curvature: 0 
+x: 17 y: 7 curvature: 0 
+x: 18 y: 8 curvature: 0 
+x: 19 y: 9 curvature: 0 
+x: 20 y: 10 curvature: 0 
+x: 21 y: 9 curvature: 0 
+x: 22 y: 8 curvature: 0 
+x: 23 y: 7 curvature: 0 
+x: 24 y: 6 curvature: 0 
+x: 25 y: 5 curvature: 0 
+x: 26 y: 5 curvature: 0 
+x: 27 y: 5 curvature: 0 
+x: 28 y: 5 curvature: 0 
+x: 29 y: 5 curvature: 0 
+x: 30 y: 5 curvature: 0 
+x: 31 y: 5 curvature: 0 
+x: 32 y: 5 curvature: 0 
+x: 33 y: 5 curvature: 0 
+x: 34 y: 5 curvature: 0 
+x: 35 y: 5 curvature: 0 
+x: 35 y: 6 curvature: 0 
+x: 35 y: 7 curvature: 0 
+x: 35 y: 8 curvature: 0 
+x: 35 y: 9 curvature: 0 
+x: 35 y: 10 curvature: 0 
+x: 35 y: 11 curvature: 0 
+x: 35 y: 12 curvature: 0 
+x: 35 y: 13 curvature: 0 
+x: 35 y: 14 curvature: 0 
+x: 35 y: 15 curvature: 0 
+x: 35 y: 16 curvature: 0 
+x: 35 y: 17 curvature: 0 
+x: 35 y: 18 curvature: 0 
+x: 35 y: 19 curvature: 0 
+x: 35 y: 20 curvature: 0 
+x: 35 y: 21 curvature: 0 
+x: 35 y: 22 curvature: 0 
+x: 35 y: 23 curvature: 0 
+x: 35 y: 24 curvature: 0 
+x: 35 y: 25 curvature: 0 
+x: 35 y: 26 curvature: 0 
+x: 35 y: 27 curvature: 0 
+x: 35 y: 28 curvature: 0 
+x: 35 y: 29 curvature: 0 
+x: 34 y: 29 curvature: 0 
+x: 33 y: 29 curvature: 0 
+x: 32 y: 29 curvature: 0 
+x: 31 y: 29 curvature: 0 
+x: 30 y: 29 curvature: 0 
+x: 29 y: 29 curvature: 0 
+x: 28 y: 29 curvature: 0 
+x: 27 y: 29 curvature: 0 
+x: 26 y: 29 curvature: 0 
+x: 25 y: 29 curvature: 0 
+x: 24 y: 30 curvature: 0 
+x: 23 y: 31 curvature: 0 
+x: 22 y: 32 curvature: 0 
+x: 21 y: 33 curvature: 0 
+x: 20 y: 34 curvature: 0 
+x: 19 y: 33 curvature: 0 
+x: 18 y: 32 curvature: 0 
+x: 17 y: 31 curvature: 0 
+x: 16 y: 30 curvature: 0 
+x: 15 y: 29 curvature: 0 
+x: 14 y: 29 curvature: 0 
+x: 13 y: 29 curvature: 0 
+x: 12 y: 29 curvature: 0 
+x: 11 y: 29 curvature: 0 
+x: 10 y: 29 curvature: 0 
+x: 9 y: 29 curvature: 0 
+x: 8 y: 29 curvature: 0 
+x: 7 y: 29 curvature: 0 
+x: 6 y: 29 curvature: 0 
+x: 5 y: 29 curvature: 0 
+x: 5 y: 28 curvature: 0 
+x: 5 y: 27 curvature: 0 
+x: 5 y: 26 curvature: 0 
+x: 5 y: 25 curvature: 0 
+x: 5 y: 24 curvature: 0 
+x: 5 y: 23 curvature: 0 
+x: 5 y: 22 curvature: 0 
+x: 5 y: 21 curvature: 0 
+x: 5 y: 20 curvature: 0 
+x: 5 y: 19 curvature: 0 
+x: 5 y: 18 curvature: 0 
+x: 5 y: 17 curvature: 0 
+x: 5 y: 16 curvature: 0 
+x: 5 y: 15 curvature: 0 
+x: 5 y: 14 curvature: 0 
+x: 5 y: 13 curvature: 0 
+x: 5 y: 12 curvature: 0 
+x: 5 y: 11 curvature: 0 
+x: 5 y: 10 curvature: 0 
+x: 5 y: 9 curvature: 0 
+x: 5 y: 8 curvature: 0 
+x: 5 y: 7 curvature: 0 
+x: 5 y: 6 curvature: 0 
+
+
+Calculating Curvature debugging
+
+Q index: 0 x: 5 y: 5
+P index: 4 x: 9 y: 5
+R index: 8 x: 13 y: 5
+5 - 5 = 0
+5 - 5 = 0
+5 - 9 = 4
+9 - 13 = 4
+0 / 4 = 0
+0 / 4 = 0
+0 - 0 = 0
+
+Q index: 1 x: 6 y: 5
+P index: 5 x: 10 y: 5
+R index: 9 x: 14 y: 5
+5 - 5 = 0
+5 - 5 = 0
+6 - 10 = 4
+10 - 14 = 4
+0 / 4 = 0
+0 / 4 = 0
+0 - 0 = 0
+
+Q index: 2 x: 7 y: 5
+P index: 6 x: 11 y: 5
+R index: 10 x: 15 y: 5
+5 - 5 = 0
+5 - 5 = 0
+7 - 11 = 4
+11 - 15 = 4
+0 / 4 = 0
+0 / 4 = 0
+0 - 0 = 0
+
+Q index: 3 x: 8 y: 5
+P index: 7 x: 12 y: 5
+R index: 11 x: 16 y: 6
+5 - 5 = 0
+5 - 6 = -1
+8 - 12 = 4
+12 - 16 = 4
+0 / 4 = 0
+-1 / 4 = 0
+0 - -0.25 = 0.25
+
+Q index: 4 x: 9 y: 5
+P index: 8 x: 13 y: 5
+R index: 12 x: 17 y: 7
+5 - 5 = 0
+5 - 7 = -2
+9 - 13 = 4
+13 - 17 = 4
+0 / 4 = 0
+-2 / 4 = 0
+0 - -0.5 = 0.5
+
+Q index: 5 x: 10 y: 5
+P index: 9 x: 14 y: 5
+R index: 13 x: 18 y: 8
+5 - 5 = 0
+5 - 8 = -3
+10 - 14 = 4
+14 - 18 = 4
+0 / 4 = 0
+-3 / 4 = 0
+0 - -0.75 = 0.75
+
+Q index: 6 x: 11 y: 5
+P index: 10 x: 15 y: 5
+R index: 14 x: 19 y: 9
+5 - 5 = 0
+5 - 9 = -4
+11 - 15 = 4
+15 - 19 = 4
+0 / 4 = 0
+-4 / 4 = 0
+0 - -1 = 1
+
+Q index: 7 x: 12 y: 5
+P index: 11 x: 16 y: 6
+R index: 15 x: 20 y: 10
+5 - 6 = -1
+6 - 10 = -4
+12 - 16 = 4
+16 - 20 = 4
+-1 / 4 = -0.25
+-4 / 4 = -0.25
+-0.25 - -1 = 0.75
+
+Q index: 8 x: 13 y: 5
+P index: 12 x: 17 y: 7
+R index: 16 x: 21 y: 9
+5 - 7 = -2
+7 - 9 = -2
+13 - 17 = 4
+17 - 21 = 4
+-2 / 4 = -0.5
+-2 / 4 = -0.5
+-0.5 - -0.5 = 0
+
+Q index: 9 x: 14 y: 5
+P index: 13 x: 18 y: 8
+R index: 17 x: 22 y: 8
+5 - 8 = -3
+8 - 8 = 0
+14 - 18 = 4
+18 - 22 = 4
+-3 / 4 = -0.75
+0 / 4 = -0.75
+-0.75 - 0 = 0.75
+
+Q index: 10 x: 15 y: 5
+P index: 14 x: 19 y: 9
+R index: 18 x: 23 y: 7
+5 - 9 = -4
+9 - 7 = 2
+15 - 19 = 4
+19 - 23 = 4
+-4 / 4 = -1
+2 / 4 = -1
+-1 - 0.5 = 1.5
+
+Q index: 11 x: 16 y: 6
+P index: 15 x: 20 y: 10
+R index: 19 x: 24 y: 6
+6 - 10 = -4
+10 - 6 = 4
+16 - 20 = 4
+20 - 24 = 4
+-4 / 4 = -1
+4 / 4 = -1
+-1 - 1 = 2
+
+Q index: 12 x: 17 y: 7
+P index: 16 x: 21 y: 9
+R index: 20 x: 25 y: 5
+7 - 9 = -2
+9 - 5 = 4
+17 - 21 = 4
+21 - 25 = 4
+-2 / 4 = -0.5
+4 / 4 = -0.5
+-0.5 - 1 = 1.5
+
+Q index: 13 x: 18 y: 8
+P index: 17 x: 22 y: 8
+R index: 21 x: 26 y: 5
+8 - 8 = 0
+8 - 5 = 3
+18 - 22 = 4
+22 - 26 = 4
+0 / 4 = 0
+3 / 4 = 0
+0 - 0.75 = 0.75
+
+Q index: 14 x: 19 y: 9
+P index: 18 x: 23 y: 7
+R index: 22 x: 27 y: 5
+9 - 7 = 2
+7 - 5 = 2
+19 - 23 = 4
+23 - 27 = 4
+2 / 4 = 0.5
+2 / 4 = 0.5
+0.5 - 0.5 = 0
+
+Q index: 15 x: 20 y: 10
+P index: 19 x: 24 y: 6
+R index: 23 x: 28 y: 5
+10 - 6 = 4
+6 - 5 = 1
+20 - 24 = 4
+24 - 28 = 4
+4 / 4 = 1
+1 / 4 = 1
+1 - 0.25 = 0.75
+
+Q index: 16 x: 21 y: 9
+P index: 20 x: 25 y: 5
+R index: 24 x: 29 y: 5
+9 - 5 = 4
+5 - 5 = 0
+21 - 25 = 4
+25 - 29 = 4
+4 / 4 = 1
+0 / 4 = 1
+1 - 0 = 1
+
+Q index: 17 x: 22 y: 8
+P index: 21 x: 26 y: 5
+R index: 25 x: 30 y: 5
+8 - 5 = 3
+5 - 5 = 0
+22 - 26 = 4
+26 - 30 = 4
+3 / 4 = 0.75
+0 / 4 = 0.75
+0.75 - 0 = 0.75
+
+Q index: 18 x: 23 y: 7
+P index: 22 x: 27 y: 5
+R index: 26 x: 31 y: 5
+7 - 5 = 2
+5 - 5 = 0
+23 - 27 = 4
+27 - 31 = 4
+2 / 4 = 0.5
+0 / 4 = 0.5
+0.5 - 0 = 0.5
+
+Q index: 19 x: 24 y: 6
+P index: 23 x: 28 y: 5
+R index: 27 x: 32 y: 5
+6 - 5 = 1
+5 - 5 = 0
+24 - 28 = 4
+28 - 32 = 4
+1 / 4 = 0.25
+0 / 4 = 0.25
+0.25 - 0 = 0.25
+
+Q index: 20 x: 25 y: 5
+P index: 24 x: 29 y: 5
+R index: 28 x: 33 y: 5
+5 - 5 = 0
+5 - 5 = 0
+25 - 29 = 4
+29 - 33 = 4
+0 / 4 = 0
+0 / 4 = 0
+0 - 0 = 0
+
+Q index: 21 x: 26 y: 5
+P index: 25 x: 30 y: 5
+R index: 29 x: 34 y: 5
+5 - 5 = 0
+5 - 5 = 0
+26 - 30 = 4
+30 - 34 = 4
+0 / 4 = 0
+0 / 4 = 0
+0 - 0 = 0
+
+Q index: 22 x: 27 y: 5
+P index: 26 x: 31 y: 5
+R index: 30 x: 35 y: 5
+5 - 5 = 0
+5 - 5 = 0
+27 - 31 = 4
+31 - 35 = 4
+0 / 4 = 0
+0 / 4 = 0
+0 - 0 = 0
+
+Q index: 23 x: 28 y: 5
+P index: 27 x: 32 y: 5
+R index: 31 x: 35 y: 6
+5 - 5 = 0
+5 - 6 = -1
+28 - 32 = 4
+32 - 35 = 3
+0 / 4 = 0
+-1 / 3 = 0
+0 - -0.333333 = 0.333333
+
+Q index: 24 x: 29 y: 5
+P index: 28 x: 33 y: 5
+R index: 32 x: 35 y: 7
+5 - 5 = 0
+5 - 7 = -2
+29 - 33 = 4
+33 - 35 = 2
+0 / 4 = 0
+-2 / 2 = 0
+0 - -1 = 1
+
+Q index: 25 x: 30 y: 5
+P index: 29 x: 34 y: 5
+R index: 33 x: 35 y: 8
+5 - 5 = 0
+5 - 8 = -3
+30 - 34 = 4
+34 - 35 = 1
+0 / 4 = 0
+-3 / 1 = 0
+0 - -3 = 3
+
+Q index: 26 x: 31 y: 5
+P index: 30 x: 35 y: 5
+R index: 34 x: 35 y: 9
+5 - 5 = 0
+5 - 9 = -4
+31 - 35 = 4
+35 - 35 = 0
+0 / 4 = 0
+-4 / 0.5 = 0
+0 - -8 = 8
+
+Q index: 27 x: 32 y: 5
+P index: 31 x: 35 y: 6
+R index: 35 x: 35 y: 10
+5 - 6 = -1
+6 - 10 = -4
+32 - 35 = 3
+35 - 35 = 0
+-1 / 3 = -0.333333
+-4 / 0.5 = -0.333333
+-0.333333 - -8 = 7.66667
+
+Q index: 28 x: 33 y: 5
+P index: 32 x: 35 y: 7
+R index: 36 x: 35 y: 11
+5 - 7 = -2
+7 - 11 = -4
+33 - 35 = 2
+35 - 35 = 0
+-2 / 2 = -1
+-4 / 0.5 = -1
+-1 - -8 = 7
+
+Q index: 29 x: 34 y: 5
+P index: 33 x: 35 y: 8
+R index: 37 x: 35 y: 12
+5 - 8 = -3
+8 - 12 = -4
+34 - 35 = 1
+35 - 35 = 0
+-3 / 1 = -3
+-4 / 0.5 = -3
+-3 - -8 = 5
+
+Q index: 30 x: 35 y: 5
+P index: 34 x: 35 y: 9
+R index: 38 x: 35 y: 13
+5 - 9 = -4
+9 - 13 = -4
+35 - 35 = 0
+35 - 35 = 0
+-4 / 0.5 = -8
+-4 / 0.5 = -8
+-8 - -8 = 0
+
+Q index: 31 x: 35 y: 6
+P index: 35 x: 35 y: 10
+R index: 39 x: 35 y: 14
+6 - 10 = -4
+10 - 14 = -4
+35 - 35 = 0
+35 - 35 = 0
+-4 / 0.5 = -8
+-4 / 0.5 = -8
+-8 - -8 = 0
+
+Q index: 32 x: 35 y: 7
+P index: 36 x: 35 y: 11
+R index: 40 x: 35 y: 15
+7 - 11 = -4
+11 - 15 = -4
+35 - 35 = 0
+35 - 35 = 0
+-4 / 0.5 = -8
+-4 / 0.5 = -8
+-8 - -8 = 0
+
+Q index: 33 x: 35 y: 8
+P index: 37 x: 35 y: 12
+R index: 41 x: 35 y: 16
+8 - 12 = -4
+12 - 16 = -4
+35 - 35 = 0
+35 - 35 = 0
+-4 / 0.5 = -8
+-4 / 0.5 = -8
+-8 - -8 = 0
+
+Q index: 34 x: 35 y: 9
+P index: 38 x: 35 y: 13
+R index: 42 x: 35 y: 17
+9 - 13 = -4
+13 - 17 = -4
+35 - 35 = 0
+35 - 35 = 0
+-4 / 0.5 = -8
+-4 / 0.5 = -8
+-8 - -8 = 0
+
+Q index: 35 x: 35 y: 10
+P index: 39 x: 35 y: 14
+R index: 43 x: 35 y: 18
+10 - 14 = -4
+14 - 18 = -4
+35 - 35 = 0
+35 - 35 = 0
+-4 / 0.5 = -8
+-4 / 0.5 = -8
+-8 - -8 = 0
+
+Q index: 36 x: 35 y: 11
+P index: 40 x: 35 y: 15
+R index: 44 x: 35 y: 19
+11 - 15 = -4
+15 - 19 = -4
+35 - 35 = 0
+35 - 35 = 0
+-4 / 0.5 = -8
+-4 / 0.5 = -8
+-8 - -8 = 0
+
+Q index: 37 x: 35 y: 12
+P index: 41 x: 35 y: 16
+R index: 45 x: 35 y: 20
+12 - 16 = -4
+16 - 20 = -4
+35 - 35 = 0
+35 - 35 = 0
+-4 / 0.5 = -8
+-4 / 0.5 = -8
+-8 - -8 = 0
+
+Q index: 38 x: 35 y: 13
+P index: 42 x: 35 y: 17
+R index: 46 x: 35 y: 21
+13 - 17 = -4
+17 - 21 = -4
+35 - 35 = 0
+35 - 35 = 0
+-4 / 0.5 = -8
+-4 / 0.5 = -8
+-8 - -8 = 0
+
+Q index: 39 x: 35 y: 14
+P index: 43 x: 35 y: 18
+R index: 47 x: 35 y: 22
+14 - 18 = -4
+18 - 22 = -4
+35 - 35 = 0
+35 - 35 = 0
+-4 / 0.5 = -8
+-4 / 0.5 = -8
+-8 - -8 = 0
+
+Q index: 40 x: 35 y: 15
+P index: 44 x: 35 y: 19
+R index: 48 x: 35 y: 23
+15 - 19 = -4
+19 - 23 = -4
+35 - 35 = 0
+35 - 35 = 0
+-4 / 0.5 = -8
+-4 / 0.5 = -8
+-8 - -8 = 0
+
+Q index: 41 x: 35 y: 16
+P index: 45 x: 35 y: 20
+R index: 49 x: 35 y: 24
+16 - 20 = -4
+20 - 24 = -4
+35 - 35 = 0
+35 - 35 = 0
+-4 / 0.5 = -8
+-4 / 0.5 = -8
+-8 - -8 = 0
+
+Q index: 42 x: 35 y: 17
+P index: 46 x: 35 y: 21
+R index: 50 x: 35 y: 25
+17 - 21 = -4
+21 - 25 = -4
+35 - 35 = 0
+35 - 35 = 0
+-4 / 0.5 = -8
+-4 / 0.5 = -8
+-8 - -8 = 0
+
+Q index: 43 x: 35 y: 18
+P index: 47 x: 35 y: 22
+R index: 51 x: 35 y: 26
+18 - 22 = -4
+22 - 26 = -4
+35 - 35 = 0
+35 - 35 = 0
+-4 / 0.5 = -8
+-4 / 0.5 = -8
+-8 - -8 = 0
+
+Q index: 44 x: 35 y: 19
+P index: 48 x: 35 y: 23
+R index: 52 x: 35 y: 27
+19 - 23 = -4
+23 - 27 = -4
+35 - 35 = 0
+35 - 35 = 0
+-4 / 0.5 = -8
+-4 / 0.5 = -8
+-8 - -8 = 0
+
+Q index: 45 x: 35 y: 20
+P index: 49 x: 35 y: 24
+R index: 53 x: 35 y: 28
+20 - 24 = -4
+24 - 28 = -4
+35 - 35 = 0
+35 - 35 = 0
+-4 / 0.5 = -8
+-4 / 0.5 = -8
+-8 - -8 = 0
+
+Q index: 46 x: 35 y: 21
+P index: 50 x: 35 y: 25
+R index: 54 x: 35 y: 29
+21 - 25 = -4
+25 - 29 = -4
+35 - 35 = 0
+35 - 35 = 0
+-4 / 0.5 = -8
+-4 / 0.5 = -8
+-8 - -8 = 0
+
+Q index: 47 x: 35 y: 22
+P index: 51 x: 35 y: 26
+R index: 55 x: 34 y: 29
+22 - 26 = -4
+26 - 29 = -3
+35 - 35 = 0
+35 - 34 = 1
+-4 / 0.5 = -8
+-3 / 1 = -8
+-8 - -3 = 5
+
+Q index: 48 x: 35 y: 23
+P index: 52 x: 35 y: 27
+R index: 56 x: 33 y: 29
+23 - 27 = -4
+27 - 29 = -2
+35 - 35 = 0
+35 - 33 = 2
+-4 / 0.5 = -8
+-2 / 2 = -8
+-8 - -1 = 7
+
+Q index: 49 x: 35 y: 24
+P index: 53 x: 35 y: 28
+R index: 57 x: 32 y: 29
+24 - 28 = -4
+28 - 29 = -1
+35 - 35 = 0
+35 - 32 = 3
+-4 / 0.5 = -8
+-1 / 3 = -8
+-8 - -0.333333 = 7.66667
+
+Q index: 50 x: 35 y: 25
+P index: 54 x: 35 y: 29
+R index: 58 x: 31 y: 29
+25 - 29 = -4
+29 - 29 = 0
+35 - 35 = 0
+35 - 31 = 4
+-4 / 0.5 = -8
+0 / 4 = -8
+-8 - 0 = 8
+
+Q index: 51 x: 35 y: 26
+P index: 55 x: 34 y: 29
+R index: 59 x: 30 y: 29
+26 - 29 = -3
+29 - 29 = 0
+35 - 34 = 1
+34 - 30 = 4
+-3 / 1 = -3
+0 / 4 = -3
+-3 - 0 = 3
+
+Q index: 52 x: 35 y: 27
+P index: 56 x: 33 y: 29
+R index: 60 x: 29 y: 29
+27 - 29 = -2
+29 - 29 = 0
+35 - 33 = 2
+33 - 29 = 4
+-2 / 2 = -1
+0 / 4 = -1
+-1 - 0 = 1
+
+Q index: 53 x: 35 y: 28
+P index: 57 x: 32 y: 29
+R index: 61 x: 28 y: 29
+28 - 29 = -1
+29 - 29 = 0
+35 - 32 = 3
+32 - 28 = 4
+-1 / 3 = -0.333333
+0 / 4 = -0.333333
+-0.333333 - 0 = 0.333333
+
+Q index: 54 x: 35 y: 29
+P index: 58 x: 31 y: 29
+R index: 62 x: 27 y: 29
+29 - 29 = 0
+29 - 29 = 0
+35 - 31 = 4
+31 - 27 = 4
+0 / 4 = 0
+0 / 4 = 0
+0 - 0 = 0
+
+Q index: 55 x: 34 y: 29
+P index: 59 x: 30 y: 29
+R index: 63 x: 26 y: 29
+29 - 29 = 0
+29 - 29 = 0
+34 - 30 = 4
+30 - 26 = 4
+0 / 4 = 0
+0 / 4 = 0
+0 - 0 = 0
+
+Q index: 56 x: 33 y: 29
+P index: 60 x: 29 y: 29
+R index: 64 x: 25 y: 29
+29 - 29 = 0
+29 - 29 = 0
+33 - 29 = 4
+29 - 25 = 4
+0 / 4 = 0
+0 / 4 = 0
+0 - 0 = 0
+
+Q index: 57 x: 32 y: 29
+P index: 61 x: 28 y: 29
+R index: 65 x: 24 y: 30
+29 - 29 = 0
+29 - 30 = -1
+32 - 28 = 4
+28 - 24 = 4
+0 / 4 = 0
+-1 / 4 = 0
+0 - -0.25 = 0.25
+
+Q index: 58 x: 31 y: 29
+P index: 62 x: 27 y: 29
+R index: 66 x: 23 y: 31
+29 - 29 = 0
+29 - 31 = -2
+31 - 27 = 4
+27 - 23 = 4
+0 / 4 = 0
+-2 / 4 = 0
+0 - -0.5 = 0.5
+
+Q index: 59 x: 30 y: 29
+P index: 63 x: 26 y: 29
+R index: 67 x: 22 y: 32
+29 - 29 = 0
+29 - 32 = -3
+30 - 26 = 4
+26 - 22 = 4
+0 / 4 = 0
+-3 / 4 = 0
+0 - -0.75 = 0.75
+
+Q index: 60 x: 29 y: 29
+P index: 64 x: 25 y: 29
+R index: 68 x: 21 y: 33
+29 - 29 = 0
+29 - 33 = -4
+29 - 25 = 4
+25 - 21 = 4
+0 / 4 = 0
+-4 / 4 = 0
+0 - -1 = 1
+
+Q index: 61 x: 28 y: 29
+P index: 65 x: 24 y: 30
+R index: 69 x: 20 y: 34
+29 - 30 = -1
+30 - 34 = -4
+28 - 24 = 4
+24 - 20 = 4
+-1 / 4 = -0.25
+-4 / 4 = -0.25
+-0.25 - -1 = 0.75
+
+Q index: 62 x: 27 y: 29
+P index: 66 x: 23 y: 31
+R index: 70 x: 19 y: 33
+29 - 31 = -2
+31 - 33 = -2
+27 - 23 = 4
+23 - 19 = 4
+-2 / 4 = -0.5
+-2 / 4 = -0.5
+-0.5 - -0.5 = 0
+
+Q index: 63 x: 26 y: 29
+P index: 67 x: 22 y: 32
+R index: 71 x: 18 y: 32
+29 - 32 = -3
+32 - 32 = 0
+26 - 22 = 4
+22 - 18 = 4
+-3 / 4 = -0.75
+0 / 4 = -0.75
+-0.75 - 0 = 0.75
+
+Q index: 64 x: 25 y: 29
+P index: 68 x: 21 y: 33
+R index: 72 x: 17 y: 31
+29 - 33 = -4
+33 - 31 = 2
+25 - 21 = 4
+21 - 17 = 4
+-4 / 4 = -1
+2 / 4 = -1
+-1 - 0.5 = 1.5
+
+Q index: 65 x: 24 y: 30
+P index: 69 x: 20 y: 34
+R index: 73 x: 16 y: 30
+30 - 34 = -4
+34 - 30 = 4
+24 - 20 = 4
+20 - 16 = 4
+-4 / 4 = -1
+4 / 4 = -1
+-1 - 1 = 2
+
+Q index: 66 x: 23 y: 31
+P index: 70 x: 19 y: 33
+R index: 74 x: 15 y: 29
+31 - 33 = -2
+33 - 29 = 4
+23 - 19 = 4
+19 - 15 = 4
+-2 / 4 = -0.5
+4 / 4 = -0.5
+-0.5 - 1 = 1.5
+
+Q index: 67 x: 22 y: 32
+P index: 71 x: 18 y: 32
+R index: 75 x: 14 y: 29
+32 - 32 = 0
+32 - 29 = 3
+22 - 18 = 4
+18 - 14 = 4
+0 / 4 = 0
+3 / 4 = 0
+0 - 0.75 = 0.75
+
+Q index: 68 x: 21 y: 33
+P index: 72 x: 17 y: 31
+R index: 76 x: 13 y: 29
+33 - 31 = 2
+31 - 29 = 2
+21 - 17 = 4
+17 - 13 = 4
+2 / 4 = 0.5
+2 / 4 = 0.5
+0.5 - 0.5 = 0
+
+Q index: 69 x: 20 y: 34
+P index: 73 x: 16 y: 30
+R index: 77 x: 12 y: 29
+34 - 30 = 4
+30 - 29 = 1
+20 - 16 = 4
+16 - 12 = 4
+4 / 4 = 1
+1 / 4 = 1
+1 - 0.25 = 0.75
+
+Q index: 70 x: 19 y: 33
+P index: 74 x: 15 y: 29
+R index: 78 x: 11 y: 29
+33 - 29 = 4
+29 - 29 = 0
+19 - 15 = 4
+15 - 11 = 4
+4 / 4 = 1
+0 / 4 = 1
+1 - 0 = 1
+
+Q index: 71 x: 18 y: 32
+P index: 75 x: 14 y: 29
+R index: 79 x: 10 y: 29
+32 - 29 = 3
+29 - 29 = 0
+18 - 14 = 4
+14 - 10 = 4
+3 / 4 = 0.75
+0 / 4 = 0.75
+0.75 - 0 = 0.75
+
+Q index: 72 x: 17 y: 31
+P index: 76 x: 13 y: 29
+R index: 80 x: 9 y: 29
+31 - 29 = 2
+29 - 29 = 0
+17 - 13 = 4
+13 - 9 = 4
+2 / 4 = 0.5
+0 / 4 = 0.5
+0.5 - 0 = 0.5
+
+Q index: 73 x: 16 y: 30
+P index: 77 x: 12 y: 29
+R index: 81 x: 8 y: 29
+30 - 29 = 1
+29 - 29 = 0
+16 - 12 = 4
+12 - 8 = 4
+1 / 4 = 0.25
+0 / 4 = 0.25
+0.25 - 0 = 0.25
+
+Q index: 74 x: 15 y: 29
+P index: 78 x: 11 y: 29
+R index: 82 x: 7 y: 29
+29 - 29 = 0
+29 - 29 = 0
+15 - 11 = 4
+11 - 7 = 4
+0 / 4 = 0
+0 / 4 = 0
+0 - 0 = 0
+
+Q index: 75 x: 14 y: 29
+P index: 79 x: 10 y: 29
+R index: 83 x: 6 y: 29
+29 - 29 = 0
+29 - 29 = 0
+14 - 10 = 4
+10 - 6 = 4
+0 / 4 = 0
+0 / 4 = 0
+0 - 0 = 0
+
+Q index: 76 x: 13 y: 29
+P index: 80 x: 9 y: 29
+R index: 84 x: 5 y: 29
+29 - 29 = 0
+29 - 29 = 0
+13 - 9 = 4
+9 - 5 = 4
+0 / 4 = 0
+0 / 4 = 0
+0 - 0 = 0
+
+Q index: 77 x: 12 y: 29
+P index: 81 x: 8 y: 29
+R index: 85 x: 5 y: 28
+29 - 29 = 0
+29 - 28 = 1
+12 - 8 = 4
+8 - 5 = 3
+0 / 4 = 0
+1 / 3 = 0
+0 - 0.333333 = 0.333333
+
+Q index: 78 x: 11 y: 29
+P index: 82 x: 7 y: 29
+R index: 86 x: 5 y: 27
+29 - 29 = 0
+29 - 27 = 2
+11 - 7 = 4
+7 - 5 = 2
+0 / 4 = 0
+2 / 2 = 0
+0 - 1 = 1
+
+Q index: 79 x: 10 y: 29
+P index: 83 x: 6 y: 29
+R index: 87 x: 5 y: 26
+29 - 29 = 0
+29 - 26 = 3
+10 - 6 = 4
+6 - 5 = 1
+0 / 4 = 0
+3 / 1 = 0
+0 - 3 = 3
+
+Q index: 80 x: 9 y: 29
+P index: 84 x: 5 y: 29
+R index: 88 x: 5 y: 25
+29 - 29 = 0
+29 - 25 = 4
+9 - 5 = 4
+5 - 5 = 0
+0 / 4 = 0
+4 / 0.5 = 0
+0 - 8 = 8
+
+Q index: 81 x: 8 y: 29
+P index: 85 x: 5 y: 28
+R index: 89 x: 5 y: 24
+29 - 28 = 1
+28 - 24 = 4
+8 - 5 = 3
+5 - 5 = 0
+1 / 3 = 0.333333
+4 / 0.5 = 0.333333
+0.333333 - 8 = 7.66667
+
+Q index: 82 x: 7 y: 29
+P index: 86 x: 5 y: 27
+R index: 90 x: 5 y: 23
+29 - 27 = 2
+27 - 23 = 4
+7 - 5 = 2
+5 - 5 = 0
+2 / 2 = 1
+4 / 0.5 = 1
+1 - 8 = 7
+
+Q index: 83 x: 6 y: 29
+P index: 87 x: 5 y: 26
+R index: 91 x: 5 y: 22
+29 - 26 = 3
+26 - 22 = 4
+6 - 5 = 1
+5 - 5 = 0
+3 / 1 = 3
+4 / 0.5 = 3
+3 - 8 = 5
+
+Q index: 84 x: 5 y: 29
+P index: 88 x: 5 y: 25
+R index: 92 x: 5 y: 21
+29 - 25 = 4
+25 - 21 = 4
+5 - 5 = 0
+5 - 5 = 0
+4 / 0.5 = 8
+4 / 0.5 = 8
+8 - 8 = 0
+
+Q index: 85 x: 5 y: 28
+P index: 89 x: 5 y: 24
+R index: 93 x: 5 y: 20
+28 - 24 = 4
+24 - 20 = 4
+5 - 5 = 0
+5 - 5 = 0
+4 / 0.5 = 8
+4 / 0.5 = 8
+8 - 8 = 0
+
+Q index: 86 x: 5 y: 27
+P index: 90 x: 5 y: 23
+R index: 94 x: 5 y: 19
+27 - 23 = 4
+23 - 19 = 4
+5 - 5 = 0
+5 - 5 = 0
+4 / 0.5 = 8
+4 / 0.5 = 8
+8 - 8 = 0
+
+Q index: 87 x: 5 y: 26
+P index: 91 x: 5 y: 22
+R index: 95 x: 5 y: 18
+26 - 22 = 4
+22 - 18 = 4
+5 - 5 = 0
+5 - 5 = 0
+4 / 0.5 = 8
+4 / 0.5 = 8
+8 - 8 = 0
+
+Q index: 88 x: 5 y: 25
+P index: 92 x: 5 y: 21
+R index: 96 x: 5 y: 17
+25 - 21 = 4
+21 - 17 = 4
+5 - 5 = 0
+5 - 5 = 0
+4 / 0.5 = 8
+4 / 0.5 = 8
+8 - 8 = 0
+
+Q index: 89 x: 5 y: 24
+P index: 93 x: 5 y: 20
+R index: 97 x: 5 y: 16
+24 - 20 = 4
+20 - 16 = 4
+5 - 5 = 0
+5 - 5 = 0
+4 / 0.5 = 8
+4 / 0.5 = 8
+8 - 8 = 0
+
+Q index: 90 x: 5 y: 23
+P index: 94 x: 5 y: 19
+R index: 98 x: 5 y: 15
+23 - 19 = 4
+19 - 15 = 4
+5 - 5 = 0
+5 - 5 = 0
+4 / 0.5 = 8
+4 / 0.5 = 8
+8 - 8 = 0
+
+Q index: 91 x: 5 y: 22
+P index: 95 x: 5 y: 18
+R index: 99 x: 5 y: 14
+22 - 18 = 4
+18 - 14 = 4
+5 - 5 = 0
+5 - 5 = 0
+4 / 0.5 = 8
+4 / 0.5 = 8
+8 - 8 = 0
+
+Q index: 92 x: 5 y: 21
+P index: 96 x: 5 y: 17
+R index: 100 x: 5 y: 13
+21 - 17 = 4
+17 - 13 = 4
+5 - 5 = 0
+5 - 5 = 0
+4 / 0.5 = 8
+4 / 0.5 = 8
+8 - 8 = 0
+
+Q index: 93 x: 5 y: 20
+P index: 97 x: 5 y: 16
+R index: 101 x: 5 y: 12
+20 - 16 = 4
+16 - 12 = 4
+5 - 5 = 0
+5 - 5 = 0
+4 / 0.5 = 8
+4 / 0.5 = 8
+8 - 8 = 0
+
+Q index: 94 x: 5 y: 19
+P index: 98 x: 5 y: 15
+R index: 102 x: 5 y: 11
+19 - 15 = 4
+15 - 11 = 4
+5 - 5 = 0
+5 - 5 = 0
+4 / 0.5 = 8
+4 / 0.5 = 8
+8 - 8 = 0
+
+Q index: 95 x: 5 y: 18
+P index: 99 x: 5 y: 14
+R index: 103 x: 5 y: 10
+18 - 14 = 4
+14 - 10 = 4
+5 - 5 = 0
+5 - 5 = 0
+4 / 0.5 = 8
+4 / 0.5 = 8
+8 - 8 = 0
+
+Q index: 96 x: 5 y: 17
+P index: 100 x: 5 y: 13
+R index: 104 x: 5 y: 9
+17 - 13 = 4
+13 - 9 = 4
+5 - 5 = 0
+5 - 5 = 0
+4 / 0.5 = 8
+4 / 0.5 = 8
+8 - 8 = 0
+
+Q index: 97 x: 5 y: 16
+P index: 101 x: 5 y: 12
+R index: 105 x: 5 y: 8
+16 - 12 = 4
+12 - 8 = 4
+5 - 5 = 0
+5 - 5 = 0
+4 / 0.5 = 8
+4 / 0.5 = 8
+8 - 8 = 0
+
+Q index: 98 x: 5 y: 15
+P index: 102 x: 5 y: 11
+R index: 106 x: 5 y: 7
+15 - 11 = 4
+11 - 7 = 4
+5 - 5 = 0
+5 - 5 = 0
+4 / 0.5 = 8
+4 / 0.5 = 8
+8 - 8 = 0
+
+Q index: 99 x: 5 y: 14
+P index: 103 x: 5 y: 10
+R index: 107 x: 5 y: 6
+14 - 10 = 4
+10 - 6 = 4
+5 - 5 = 0
+5 - 5 = 0
+4 / 0.5 = 8
+4 / 0.5 = 8
+8 - 8 = 0
+
+Q index: 100 x: 5 y: 13
+P index: 104 x: 5 y: 9
+R index: 0 x: 5 y: 5
+13 - 9 = 4
+9 - 5 = 4
+5 - 5 = 0
+5 - 5 = 0
+4 / 0.5 = 8
+4 / 0.5 = 8
+8 - 8 = 0
+
+Q index: 101 x: 5 y: 12
+P index: 105 x: 5 y: 8
+R index: 1 x: 6 y: 5
+12 - 8 = 4
+8 - 5 = 3
+5 - 5 = 0
+5 - 6 = 1
+4 / 0.5 = 8
+3 / 1 = 8
+8 - 3 = 5
+
+Q index: 102 x: 5 y: 11
+P index: 106 x: 5 y: 7
+R index: 2 x: 7 y: 5
+11 - 7 = 4
+7 - 5 = 2
+5 - 5 = 0
+5 - 7 = 2
+4 / 0.5 = 8
+2 / 2 = 8
+8 - 1 = 7
+
+Q index: 103 x: 5 y: 10
+P index: 107 x: 5 y: 6
+R index: 3 x: 8 y: 5
+10 - 6 = 4
+6 - 5 = 1
+5 - 5 = 0
+5 - 8 = 3
+4 / 0.5 = 8
+1 / 3 = 8
+8 - 0.333333 = 7.66667
+
+Q index: 104 x: 5 y: 9
+P index: 0 x: 5 y: 5
+R index: 4 x: 9 y: 5
+9 - 5 = 4
+5 - 5 = 0
+5 - 5 = 0
+5 - 9 = 4
+4 / 0.5 = 8
+0 / 4 = 8
+8 - 0 = 8
+
+Q index: 105 x: 5 y: 8
+P index: 1 x: 6 y: 5
+R index: 5 x: 10 y: 5
+8 - 5 = 3
+5 - 5 = 0
+5 - 6 = 1
+6 - 10 = 4
+3 / 1 = 3
+0 / 4 = 3
+3 - 0 = 3
+
+Q index: 106 x: 5 y: 7
+P index: 2 x: 7 y: 5
+R index: 6 x: 11 y: 5
+7 - 5 = 2
+5 - 5 = 0
+5 - 7 = 2
+7 - 11 = 4
+2 / 2 = 1
+0 / 4 = 1
+1 - 0 = 1
+
+Q index: 107 x: 5 y: 6
+P index: 3 x: 8 y: 5
+R index: 7 x: 12 y: 5
+6 - 5 = 1
+5 - 5 = 0
+5 - 8 = 3
+8 - 12 = 4
+1 / 3 = 0.333333
+0 / 4 = 0.333333
+0.333333 - 0 = 0.333333
+
+
+40 40 0 1
+1
+x: 5 y: 5 curvature: 8 
+x: 6 y: 5 curvature: 3 
+x: 7 y: 5 curvature: 1 
+x: 8 y: 5 curvature: 0.333333 
+x: 9 y: 5 curvature: 0 
+x: 10 y: 5 curvature: 0 
+x: 11 y: 5 curvature: 0 
+x: 12 y: 5 curvature: 0.25 
+x: 13 y: 5 curvature: 0.5 
+x: 14 y: 5 curvature: 0.75 
+x: 15 y: 5 curvature: 1 
+x: 16 y: 6 curvature: 0.75 
+x: 17 y: 7 curvature: 0 
+x: 18 y: 8 curvature: 0.75 
+x: 19 y: 9 curvature: 1.5 
+x: 20 y: 10 curvature: 2 
+x: 21 y: 9 curvature: 1.5 
+x: 22 y: 8 curvature: 0.75 
+x: 23 y: 7 curvature: 0 
+x: 24 y: 6 curvature: 0.75 
+x: 25 y: 5 curvature: 1 
+x: 26 y: 5 curvature: 0.75 
+x: 27 y: 5 curvature: 0.5 
+x: 28 y: 5 curvature: 0.25 
+x: 29 y: 5 curvature: 0 
+x: 30 y: 5 curvature: 0 
+x: 31 y: 5 curvature: 0 
+x: 32 y: 5 curvature: 0.333333 
+x: 33 y: 5 curvature: 1 
+x: 34 y: 5 curvature: 3 
+x: 35 y: 5 curvature: 8 
+x: 35 y: 6 curvature: 7.66667 
+x: 35 y: 7 curvature: 7 
+x: 35 y: 8 curvature: 5 
+x: 35 y: 9 curvature: 0 
+x: 35 y: 10 curvature: 0 
+x: 35 y: 11 curvature: 0 
+x: 35 y: 12 curvature: 0 
+x: 35 y: 13 curvature: 0 
+x: 35 y: 14 curvature: 0 
+x: 35 y: 15 curvature: 0 
+x: 35 y: 16 curvature: 0 
+x: 35 y: 17 curvature: 0 
+x: 35 y: 18 curvature: 0 
+x: 35 y: 19 curvature: 0 
+x: 35 y: 20 curvature: 0 
+x: 35 y: 21 curvature: 0 
+x: 35 y: 22 curvature: 0 
+x: 35 y: 23 curvature: 0 
+x: 35 y: 24 curvature: 0 
+x: 35 y: 25 curvature: 0 
+x: 35 y: 26 curvature: 5 
+x: 35 y: 27 curvature: 7 
+x: 35 y: 28 curvature: 7.66667 
+x: 35 y: 29 curvature: 8 
+x: 34 y: 29 curvature: 3 
+x: 33 y: 29 curvature: 1 
+x: 32 y: 29 curvature: 0.333333 
+x: 31 y: 29 curvature: 0 
+x: 30 y: 29 curvature: 0 
+x: 29 y: 29 curvature: 0 
+x: 28 y: 29 curvature: 0.25 
+x: 27 y: 29 curvature: 0.5 
+x: 26 y: 29 curvature: 0.75 
+x: 25 y: 29 curvature: 1 
+x: 24 y: 30 curvature: 0.75 
+x: 23 y: 31 curvature: 0 
+x: 22 y: 32 curvature: 0.75 
+x: 21 y: 33 curvature: 1.5 
+x: 20 y: 34 curvature: 2 
+x: 19 y: 33 curvature: 1.5 
+x: 18 y: 32 curvature: 0.75 
+x: 17 y: 31 curvature: 0 
+x: 16 y: 30 curvature: 0.75 
+x: 15 y: 29 curvature: 1 
+x: 14 y: 29 curvature: 0.75 
+x: 13 y: 29 curvature: 0.5 
+x: 12 y: 29 curvature: 0.25 
+x: 11 y: 29 curvature: 0 
+x: 10 y: 29 curvature: 0 
+x: 9 y: 29 curvature: 0 
+x: 8 y: 29 curvature: 0.333333 
+x: 7 y: 29 curvature: 1 
+x: 6 y: 29 curvature: 3 
+x: 5 y: 29 curvature: 8 
+x: 5 y: 28 curvature: 7.66667 
+x: 5 y: 27 curvature: 7 
+x: 5 y: 26 curvature: 5 
+x: 5 y: 25 curvature: 0 
+x: 5 y: 24 curvature: 0 
+x: 5 y: 23 curvature: 0 
+x: 5 y: 22 curvature: 0 
+x: 5 y: 21 curvature: 0 
+x: 5 y: 20 curvature: 0 
+x: 5 y: 19 curvature: 0 
+x: 5 y: 18 curvature: 0 
+x: 5 y: 17 curvature: 0 
+x: 5 y: 16 curvature: 0 
+x: 5 y: 15 curvature: 0 
+x: 5 y: 14 curvature: 0 
+x: 5 y: 13 curvature: 0 
+x: 5 y: 12 curvature: 0 
+x: 5 y: 11 curvature: 0 
+x: 5 y: 10 curvature: 0 
+x: 5 y: 9 curvature: 0 
+x: 5 y: 8 curvature: 5 
+x: 5 y: 7 curvature: 7 
+x: 5 y: 6 curvature: 7.66667 
+
+
+computer Local Max: 
+ x: 5 y: 5 1
+ x: 6 y: 5 0
+ x: 7 y: 5 0
+ x: 8 y: 5 0
+ x: 9 y: 5 0
+ x: 10 y: 5 0
+ x: 11 y: 5 0
+ x: 12 y: 5 0
+ x: 13 y: 5 0
+ x: 14 y: 5 0
+ x: 15 y: 5 1
+ x: 16 y: 6 0
+ x: 17 y: 7 0
+ x: 18 y: 8 0
+ x: 19 y: 9 0
+ x: 20 y: 10 1
+ x: 21 y: 9 0
+ x: 22 y: 8 0
+ x: 23 y: 7 0
+ x: 24 y: 6 0
+ x: 25 y: 5 1
+ x: 26 y: 5 0
+ x: 27 y: 5 0
+ x: 28 y: 5 0
+ x: 29 y: 5 0
+ x: 30 y: 5 0
+ x: 31 y: 5 0
+ x: 32 y: 5 0
+ x: 33 y: 5 0
+ x: 34 y: 5 0
+ x: 35 y: 5 1
+ x: 35 y: 6 0
+ x: 35 y: 7 0
+ x: 35 y: 8 0
+ x: 35 y: 9 0
+ x: 35 y: 10 0
+ x: 35 y: 11 0
+ x: 35 y: 12 0
+ x: 35 y: 13 0
+ x: 35 y: 14 0
+ x: 35 y: 15 0
+ x: 35 y: 16 0
+ x: 35 y: 17 0
+ x: 35 y: 18 0
+ x: 35 y: 19 0
+ x: 35 y: 20 0
+ x: 35 y: 21 0
+ x: 35 y: 22 0
+ x: 35 y: 23 0
+ x: 35 y: 24 0
+ x: 35 y: 25 0
+ x: 35 y: 26 0
+ x: 35 y: 27 0
+ x: 35 y: 28 0
+ x: 35 y: 29 1
+ x: 34 y: 29 0
+ x: 33 y: 29 0
+ x: 32 y: 29 0
+ x: 31 y: 29 0
+ x: 30 y: 29 0
+ x: 29 y: 29 0
+ x: 28 y: 29 0
+ x: 27 y: 29 0
+ x: 26 y: 29 0
+ x: 25 y: 29 1
+ x: 24 y: 30 0
+ x: 23 y: 31 0
+ x: 22 y: 32 0
+ x: 21 y: 33 0
+ x: 20 y: 34 1
+ x: 19 y: 33 0
+ x: 18 y: 32 0
+ x: 17 y: 31 0
+ x: 16 y: 30 0
+ x: 15 y: 29 1
+ x: 14 y: 29 0
+ x: 13 y: 29 0
+ x: 12 y: 29 0
+ x: 11 y: 29 0
+ x: 10 y: 29 0
+ x: 9 y: 29 0
+ x: 8 y: 29 0
+ x: 7 y: 29 0
+ x: 6 y: 29 0
+ x: 5 y: 29 1
+ x: 5 y: 28 0
+ x: 5 y: 27 0
+ x: 5 y: 26 0
+ x: 5 y: 25 0
+ x: 5 y: 24 0
+ x: 5 y: 23 0
+ x: 5 y: 22 0
+ x: 5 y: 21 0
+ x: 5 y: 20 0
+ x: 5 y: 19 0
+ x: 5 y: 18 0
+ x: 5 y: 17 0
+ x: 5 y: 16 0
+ x: 5 y: 15 0
+ x: 5 y: 14 0
+ x: 5 y: 13 0
+ x: 5 y: 12 0
+ x: 5 y: 11 0
+ x: 5 y: 10 0
+ x: 5 y: 9 0
+ x: 5 y: 8 0
+ x: 5 y: 7 0
+ x: 5 y: 6 0
+
+computer maxCorner: 
+ x: 5 y: 5 9
+ x: 6 y: 5 1
+ x: 7 y: 5 1
+ x: 8 y: 5 1
+ x: 9 y: 5 1
+ x: 10 y: 5 1
+ x: 11 y: 5 1
+ x: 12 y: 5 1
+ x: 13 y: 5 1
+ x: 14 y: 5 1
+ x: 15 y: 5 9
+ x: 16 y: 6 1
+ x: 17 y: 7 1
+ x: 18 y: 8 1
+ x: 19 y: 9 1
+ x: 20 y: 10 9
+ x: 21 y: 9 1
+ x: 22 y: 8 1
+ x: 23 y: 7 1
+ x: 24 y: 6 1
+ x: 25 y: 5 9
+ x: 26 y: 5 1
+ x: 27 y: 5 1
+ x: 28 y: 5 1
+ x: 29 y: 5 1
+ x: 30 y: 5 1
+ x: 31 y: 5 1
+ x: 32 y: 5 1
+ x: 33 y: 5 1
+ x: 34 y: 5 1
+ x: 35 y: 5 9
+ x: 35 y: 6 1
+ x: 35 y: 7 1
+ x: 35 y: 8 1
+ x: 35 y: 9 1
+ x: 35 y: 10 1
+ x: 35 y: 11 1
+ x: 35 y: 12 1
+ x: 35 y: 13 1
+ x: 35 y: 14 1
+ x: 35 y: 15 1
+ x: 35 y: 16 1
+ x: 35 y: 17 1
+ x: 35 y: 18 1
+ x: 35 y: 19 1
+ x: 35 y: 20 1
+ x: 35 y: 21 1
+ x: 35 y: 22 1
+ x: 35 y: 23 1
+ x: 35 y: 24 1
+ x: 35 y: 25 1
+ x: 35 y: 26 1
+ x: 35 y: 27 1
+ x: 35 y: 28 1
+ x: 35 y: 29 9
+ x: 34 y: 29 1
+ x: 33 y: 29 1
+ x: 32 y: 29 1
+ x: 31 y: 29 1
+ x: 30 y: 29 1
+ x: 29 y: 29 1
+ x: 28 y: 29 1
+ x: 27 y: 29 1
+ x: 26 y: 29 1
+ x: 25 y: 29 9
+ x: 24 y: 30 1
+ x: 23 y: 31 1
+ x: 22 y: 32 1
+ x: 21 y: 33 1
+ x: 20 y: 34 9
+ x: 19 y: 33 1
+ x: 18 y: 32 1
+ x: 17 y: 31 1
+ x: 16 y: 30 1
+ x: 15 y: 29 9
+ x: 14 y: 29 1
+ x: 13 y: 29 1
+ x: 12 y: 29 1
+ x: 11 y: 29 1
+ x: 10 y: 29 1
+ x: 9 y: 29 1
+ x: 8 y: 29 1
+ x: 7 y: 29 1
+ x: 6 y: 29 1
+ x: 5 y: 29 9
+ x: 5 y: 28 1
+ x: 5 y: 27 1
+ x: 5 y: 26 1
+ x: 5 y: 25 1
+ x: 5 y: 24 1
+ x: 5 y: 23 1
+ x: 5 y: 22 1
+ x: 5 y: 21 1
+ x: 5 y: 20 1
+ x: 5 y: 19 1
+ x: 5 y: 18 1
+ x: 5 y: 17 1
+ x: 5 y: 16 1
+ x: 5 y: 15 1
+ x: 5 y: 14 1
+ x: 5 y: 13 1
+ x: 5 y: 12 1
+ x: 5 y: 11 1
+ x: 5 y: 10 1
+ x: 5 y: 9 1
+ x: 5 y: 8 1
+ x: 5 y: 7 1
+ x: 5 y: 6 1
